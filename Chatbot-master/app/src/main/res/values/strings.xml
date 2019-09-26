@@ -1,0 +1,112 @@
+<resources>
+
+    <string name="app_name">Chatbot</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="roomSelection">Select your room</string>
+
+    <string name="start_button">Start Button</string>
+
+    <string name="startWelcome">Action!</string>
+
+    <string name="QRBtn">QR</string>
+
+    <string name="error_sensor">Function not available (Accelerometer not founded)</string>
+
+    <string name="chaplinicon">Icon chaplin</string>
+
+    <string name="rooma">Room A</string>
+
+    <string name="stopChaplin">Press here to stop it</string>
+
+    <string name="roomb">Room B</string>
+
+    <string name="roomc">Room C</string>
+
+    <string name="stopSpeak">I´m shutting up</string>
+
+    <string name="scannerResult">Scanner result</string>
+
+    <string name="doubleTapStart">Calling chaplin...</string>
+
+    <string name="help">Help</string>
+
+    <string name="helpClick">Ok!</string>
+
+    <string name="camera_permission">Need camera permission</string>
+
+    <string name="help_description">Press on any room to know what questions can you make. Also, you can slide with 3 fingers to changefrom one room to the next one.
+        \n\nIf you want to talk with Chaplin, press him or make a two fingers double tap anywhere on the screen.If you need Chaplin stop talking, shake your device!
+        \n\nBy last, press the QR button (upper-left corner) for reading the QR codes you can find around the rooms.
+        \n\nHope you like the museum! </string>
+
+    <string name="selectroom">Select the room</string>
+
+    <string name="enter_instructions">Pinch to close the clapperboard!</string>
+
+    <!-- Texts -->
+
+
+    <string name="speechbtn_default">Press me to speak!</string>
+
+    <string name="speechbtn_listening">Listening...</string>
+
+    <string name="initial_prompt">I am listening!</string>
+
+    <string name="check_internet_connection">Please check your Internet connection</string>
+
+    <string name="asr_permission">TalkBack must access the microphone in order to perform speech recognition</string>
+
+    <string name="asr_permission_notgranted">Sorry, TalkBack cannot work without accessing the microphone</string>
+
+    <string name="asr_notsupported">ASR not supported</string>
+
+    <string name="asr_results">Results ready :D</string>
+
+    <string name="asr_invalid_params">Invalid parameters for recognition</string>
+
+    <string name="asr_error">Speech recognition error</string>
+
+    <string name="asr_readyforspeech">Ready to hear you speak!</string>
+
+    <string name="asr_beginningofspeech">You have started talking ;)</string>
+
+    <string name="asr_buffer">Buffer received</string>
+
+    <string name="asr_endofspeech">You have stopped talking</string>
+
+    <string name="asr_parcialresult">Parcial results received</string>
+
+    <string name="asr_error_audio"> Audio recording error</string>
+
+    <string name="asr_error_client">Unknown client side error</string>
+
+    <string name="asr_error_permissions">Insufficient permissions</string>
+
+    <string name="asr_error_network">Network related error</string>
+
+    <string name="asr_error_networktimeout">Network operation timed out</string>
+
+    <string name="asr_error_nomatch">No recognition result matched</string>
+
+    <string name="asr_error_recognizerbusy">Recognition service busy</string>
+
+    <string name="asr_error_server">Server sends error status</string>
+
+    <string name="asr_error_speechtimeout">No speech input detected</string>
+
+    <string name="asr_notstarted">Speech recognition could not be started</string>
+
+    <!-- Colors -->
+
+
+    <color name="speechbtn_default">#eeeeee</color>
+
+    <color name="speechbtn_listening">#99FFBB</color>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

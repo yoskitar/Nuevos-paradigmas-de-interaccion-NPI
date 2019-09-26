@@ -1,0 +1,114 @@
+<resources>
+
+    <string name="app_name">Chatbot</string>
+
+    <string name="action_settings">Opciones</string>
+
+    <string name="roomSelection">Selecciona la sala en la que estas</string>
+
+
+    <string name="start_button">Botón de start</string>
+
+    <string name="error_sensor">Función no disponible (no dispone de acelerómetro)</string>
+
+    <string name="stopChaplin">Presiona aquí para detenerlo</string>
+
+    <string name="chaplinicon">Icono chaplin</string>
+
+    <string name="rooma">Sala A</string>
+
+    <string name="roomb">Sala B</string>
+
+    <string name="roomc">Sala C</string>
+
+    <string name="stopSpeak">Perdona, mejor me callo</string>
+
+    <string name="scannerResult">Resultado del escaner</string>
+
+    <string name="doubleTapStart">LLamando a Chaplin...</string>
+
+    <string name="startWelcome">¡Acción!</string>
+
+    <string name="help">Ayuda</string>
+
+    <string name="helpClick">¡Entendido!</string>
+
+    <string name="QRBtn">QR</string>
+
+    <string name="camera_permission">Necesitas los permisos de la cámara</string>
+
+
+    <string name="help_description">Pulsa sobre cualquier sala para tener una idea sobre qué preguntar a Chaplin.También puedes deslizar con 3 dedos para cambiar entre la sala actual y su contigua.
+        \n\nPara hablar con Chaplin haz click sobre él, o doble click con 2 dedos en cualquier lugar de la pantalla. Si necesitas que Chaplin deje de hablar, prueba a sacudir tu dispositivo!
+        \n\nPor último, el botón superior izquierdo te servirá para leer los códigos QR de cada habitación.
+        \n\nEsperamos que disfrutes del museo! </string>
+
+    <string name="selectroom">Selecciona la habitacion</string>
+
+    <string name="enter_instructions">Pellizca para cerrar la claqueta!</string>
+
+    <!-- Texts -->
+
+
+    <string name="speechbtn_default">Pulsame para hablar!</string>
+
+    <string name="speechbtn_listening">Escuchando...</string>
+
+    <string name="initial_prompt">Te escucho</string>
+
+    <string name="check_internet_connection">Ups, parece que falla la comunicación</string>
+
+    <string name="asr_permission">Me dejas acceder al micro?</string>
+
+    <string name="asr_permission_notgranted">Lo siento necesito acceder al micrófono</string>
+
+    <string name="asr_notsupported">Me dicen que el ASR no están soportado</string>
+
+    <string name="asr_results">Resultados listos</string>
+
+    <string name="asr_invalid_params">Me dicen que has usado parametros invalidos</string>
+
+    <string name="asr_error">No te he entendido</string>
+
+    <string name="asr_readyforspeech">Preparado para escucharte hablar!</string>
+
+    <string name="asr_beginningofspeech">Has empezado a hablar</string>
+
+    <string name="asr_buffer">Buffer recibido</string>
+
+    <string name="asr_endofspeech">Has parado de hablar</string>
+
+    <string name="asr_parcialresult">Resultados parciales recibidos</string>
+
+    <string name="asr_error_audio">Error grabando audio</string>
+
+    <string name="asr_error_client">Error desconocido del cliente</string>
+
+    <string name="asr_error_permissions">Necesito que me des permiso</string>
+
+    <string name="asr_error_network">Me dicen que ha ocurrido un error en la red</string>
+
+    <string name="asr_error_networktimeout">Operacion de red superó tiempo máximo</string>
+
+    <string name="asr_error_nomatch">No sé responderte a eso...</string>
+
+    <string name="asr_error_recognizerbusy">Perdona, estaba ocupado</string>
+
+    <string name="asr_error_server">Me dicen que el servidor ha fallado</string>
+
+    <string name="asr_error_speechtimeout">¿Has dicho algo?</string>
+
+    <string name="asr_notstarted">No he podido oir que decias</string>
+
+    <!-- Colors -->
+
+
+    <color name="speechbtn_default">#EEEEEE</color>
+
+    <color name="speechbtn_listening">#99FFBB</color>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hola mundillo!</string>
+
+</resources>
