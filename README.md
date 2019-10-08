@@ -7,3 +7,5 @@
  permitiendonos preguntarle a nuestro chat-bot por varias de las películas de este cine (argumento, actores..),
  además de poder ver el trailer de éstas escaneando códigos QR, o vivir una experiencia inmersiva al entrar a una 
  sala oscura que provocará que se reproduzca una proyección relativa a la sala en la pantalla de nuestro smartphone.
+ 
+ ![Imagen clave SSH](https://raw.githubusercontent.com/yoskitar/Cloud-Computing-CC/master/Justificaciones/imagenes/Justificación Configuración SSH-Key.png)
